@@ -1,0 +1,359 @@
+
+body{
+    background-color: rgb(31, 29, 29);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.inner-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    top: 25%;
+    color: white;
+}
+.inner-title {
+    text-align: center;
+    font-family: 'Arimo', sans-serif;
+}
+.inner-text {
+    font-size: 1.5rem;
+}
+.get-started {
+    width: 40%;
+    padding-top: 1rem;
+    display: flex;
+}
+.get-started > input {
+    padding-left: 10px;
+    font-size: 1.1rem;
+    flex: 1;
+}
+.header {
+    height: 110vh;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url(https://assets.nflxext.com/ffe/siteui/vlv3/a1dc92ca-091d-4ca9-a05b-8cd44bbfce6a/f9368347-e982-4856-a5a4-396796381f28/RS-en-20191230-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    position: relative;
+    z-index: 1;
+}
+.logo > img {
+    width: 150px;
+}
+.btn-lg {
+    text-decoration: none;
+    color: #fff;
+    padding: 15px 15px;
+    background: #e50914;
+    border-radius: 5px;
+    font-size: 25px;
+    text-align: center;
+}
+.btn-lg:hover {
+    background: #ca1720;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.websection2{
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+    margin-top: 10px;
+}
+.mainheading{
+    font-family: 'Poppins', sans-serif;
+}
+.subheading{
+    padding-top: 20px;
+    font-size: 1.5rem;
+    font-family: 'Lato', sans-serif;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: left;
+}
+.showcase-img {
+    position: relative;
+    z-index: 1;
+}
+.showcase-animation {
+    position: absolute;
+    left: 75px;
+    top: 95px;
+    z-index: -1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.websection3{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+}
+.mainheading{
+    font-family: 'Poppins', sans-serif;
+}
+.subheading{
+    padding-top: 20px;
+    font-size: 1.5rem;
+    font-family: 'Lato', sans-serif;
+}
+.container {
+    display: flex;
+    /* flex-direction: row; */
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.websection4{
+    padding-top: 50px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+}
+.mainheading{
+    font-family: 'Poppins', sans-serif;
+}
+.subheading{
+    padding-top: 20px;
+    font-size: 1.5rem;
+    font-family: 'Lato', sans-serif;
+}
+.container {
+    display: flex;
+    /* flex-direction: row; */
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.websection5{
+    padding-top: 50px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+}
+.mainheading{
+    font-family: 'Poppins', sans-serif;
+}
+.subheading{
+    padding-top: 20px;
+    font-size: 1.5rem;
+    font-family: 'Lato', sans-serif;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.websection6{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.questbox{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    text-align: center;
+}
+.quest {
+    width: 70%;
+    min-height: 80px;
+    background-color: #303030;
+    color: white;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    justify-content: space-between;
+    display: flex;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5px;
+    font-size: 25px;
+}
+.questpara{
+    font-size: 1.4rem;
+    padding-top: 40px;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.websection7{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-top: 100px;
+    font-family: 'Lato', sans-serif;
+    color: grey;
+}
+.list{
+    text-decoration: underline;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1rem;
+    padding-bottom: 30px;
+}
+  
